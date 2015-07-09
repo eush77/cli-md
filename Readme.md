@@ -16,6 +16,7 @@ md('# markdown')
 ## Command line usage
 ```
 $ cli-md < Readme.md
+$ cli.md Readme.md
 ```
 Which would look something like this:
 ![Photo](example.png)
